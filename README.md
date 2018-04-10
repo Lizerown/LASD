@@ -1,9 +1,5 @@
 Progetti & Esercizi - LASD 2017/2018
 
-/* ------------------------------------- */
-//          POWERED & DEVELOPED          //
-//         BY EMMANUEL CANTARELLI        //
-/* ------------------------------------- */
 
 
 ##Changelog##
