@@ -5,7 +5,7 @@
 ##### IDE utilizzato: Dev-C++5.11
 
 ## Contenuto
-- Esercizi sui Binary Search Trees;
+- Esercizi sui Binary Search Trees (C);
 
 ## Changelog 
 #### Inserimento Esercizio 1 10/04/18
