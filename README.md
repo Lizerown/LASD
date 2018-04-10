@@ -1,6 +1,8 @@
 # Progetti & Esercizi - LASD 2017/2018
 
 #####  Language: ITA
+##### Piattaforma di sviluppo: Windows 10 64bit
+##### IDE utilizzato: Dev-C++5.11
 
 ## Contenuto
 - Esercizi sui Binary Search Trees;
