@@ -8,9 +8,9 @@
 - Esercizi sui Binary Search Trees (C);
 
 ## Changelog 
-#### Inserimento Esercizio 1 10/04/18
+#### Inserimento BST/Esercizio 1 10/04/18
 - NOTA: L'esercizio non è ottimizzato, non pretende di essere perfetto e non lo è.
-#### Inserimento Esercizio 2 Ricorsivo 10/04/18
+#### Inserimento BST/Esercizio 2 Ricorsivo 10/04/18
 - NOTA: L'esercizio non è ottimizzato, non pretende di essere perfetto e non lo è. 
-#### Inserimento Esercizio 3 Iterativo 13/05/18
+#### Inserimento BST/Esercizio 3 Iterativo 13/05/18
 - NOTA: L'esercizio non è ottimizzato, non pretende di essere perfetto e non lo è. 
